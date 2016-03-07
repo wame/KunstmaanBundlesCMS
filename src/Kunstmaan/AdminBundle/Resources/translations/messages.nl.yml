@@ -5,8 +5,8 @@ pages:
   draft: Concept
    pagenottranslated: Deze pagina is niet vertaald
    copyfrom: Kopieer van taal
-   createemptypage: Create as an empty page
-   movingconfirmation: You are moving "%title%" to "%target%", are you sure?
+   createemptypage: Als lege pagina aanmaken
+   movingconfirmation: U gaat "%title%" verplaatsen naar "%target%". Weet u dit zeker?
 
  # Modules
  modules:
