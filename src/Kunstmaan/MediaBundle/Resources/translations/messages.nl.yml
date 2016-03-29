@@ -5,7 +5,7 @@ media:
     nothing: Hier is niets te zien.
 
   media:
-    no: Er zijn nog geen bestanden in deze map.
+    no: Er staan nog geen bestanden in deze map.
     dnd:
       tip: "Tip:"
       tiptext: wist u dat u meerdere bestanden hier naartoe kunt slepen?
