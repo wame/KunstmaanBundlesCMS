@@ -3,14 +3,14 @@ pages:
   title: Pagina's
   parts: PageParts
   draft: Concept
-   pagenottranslated: Deze pagina is niet vertaald
-   copyfrom: Kopieer van taal
-   createemptypage: Als lege pagina aanmaken
-   movingconfirmation: U gaat "%title%" verplaatsen naar "%target%". Weet u dit zeker?
+  pagenottranslated: Deze pagina is niet vertaald
+  copyfrom: Kopieer van taal
+  createemptypage: Als lege pagina aanmaken
+  movingconfirmation: U gaat "%title%" verplaatsen naar "%target%". Weet u dit zeker?
 
  # Modules
- modules:
-   title: Modules
+modules:
+  title: Modules
 
 # Settings
 settings:
